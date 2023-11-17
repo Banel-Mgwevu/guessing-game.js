@@ -34,6 +34,17 @@ This is a simple number guessing game built with Node.js that you can play in th
 - Attempts: 4
 - Hints: 0
 
+
+
 ## Enjoy the Game! 🎉
 
 Feel free to modify the code or adjust the game settings to make it even more challenging or add your own features. Have fun playing and improving the game! 😊👍
+
+
+## How to Start
+After Cloning run command:
+```bash
+node .
+
+
+
